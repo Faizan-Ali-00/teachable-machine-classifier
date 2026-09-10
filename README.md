@@ -11,7 +11,7 @@ The model was trained to recognize two different classes:
 
 ## How It Works
 
-The model learns from example images provided for each class. After training, it can analyze a new image and predict whether the image belongs to the Bottle or Mobile Phone class.
+The model learns from example images provided for each class. After training, it can analyze a new image and predict whether the image belongs to the Bottle or Mobile Phone class..
 
 ## Classes
 
