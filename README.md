@@ -33,3 +33,23 @@ The trained model was tested using images that were not used during training. Th
 ## Assignment
 
 AI Essentials — Teachable Machine Image Classifier
+---
+
+## 📊 Model Performance
+
+| Class | Sample Count | Accuracy |
+|-------|-------------|----------|
+| Bottle | 100+ | ✅ High |
+| Mobile Phone | 100+ | ✅ High |
+
+## 🧪 Testing
+
+The model was tested with new images (not part of the training set):
+- ✅ `bottle-test-result.png` — Correctly classified
+- ✅ `mobile-phone-test-result.png` — Correctly classified
+
+## 🚀 How to Use
+
+1. Open the model file: `tm-my-image-model.zip`
+2. Upload it to [Teachable Machine](https://teachablemachine.withgoogle.com/)
+3. Test with your own images!
